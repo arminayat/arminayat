@@ -12,7 +12,7 @@ I care about the whole product. How it looks, how it feels, how it works, and th
 
 - **[TechMiners](https://www.techminers.com/)**: Data-driven tech and product due diligence for VCs and PE teams. I lead engineering across the platform, data systems, and AI agents.
 - **[Nestor Notes](https://nestornotes.com)**: AI-powered newsletter digest and knowledge hub. Turns your inbox firehose into something you can actually search and learn from. iOS app too.
-- **[Vinoh](https://apps.apple.com/us/app/vinoh-ai-wine-journal-learn/id6738624509)**: iOS wine journal. Log tastings, learn the language of wine, build a real taste profile.
+- **[Vinoh](https://vin-oh.com)**: iOS wine journal. Log tastings, learn the language of wine, build a real taste profile.
 - **[arminayat.com](https://arminayat.com)**: My site and writing archive. Essays on engineering, AI tools, and building products in public.
 - **[GitNation talk](https://gitnation.com/contents/preparing-for-success-a-frontend-engineers-guide-to-tech-due-diligence)**: React Day Berlin 2024. How frontend engineers can prepare their teams for tech due diligence. Yes, there's a jousting knight analogy.
 
