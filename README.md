@@ -13,10 +13,10 @@ I care about the whole product. How it looks, how it feels, how it works, and th
 - **[TechMiners](https://www.techminers.com/)**: Data-driven tech and product due diligence for VCs and PE teams. I lead engineering across the platform, data systems, and AI agents.
 - **[Nestor Notes](https://nestornotes.com)**: AI-powered newsletter digest and knowledge hub. Turns your inbox firehose into something you can actually search and learn from. iOS app too.
 - **[Vinoh](https://vin-oh.com)**: iOS wine journal. Log tastings, learn the language of wine, build a real taste profile.
+- **Kapier** *(coming soon)*: Privacy-first document intelligence. Ask questions across your documents without sending them anywhere you wouldn't want them to go.
+- **Vera** *(coming soon)*: AI voice journaling companion. Talk through your day, get something back worth keeping.
 - **[arminayat.com](https://arminayat.com)**: My site and writing archive. Essays on engineering, AI tools, and building products in public.
 - **[GitNation talk](https://gitnation.com/contents/preparing-for-success-a-frontend-engineers-guide-to-tech-due-diligence)**: React Day Berlin 2024. How frontend engineers can prepare their teams for tech due diligence. Yes, there's a jousting knight analogy.
-
-Plenty of other stuff is still private or early-stage. AI journaling, language learning with voice, dev tooling, agent-assisted maintenance workflows. Ask me again in a few months.
 
 ## Find me
 
