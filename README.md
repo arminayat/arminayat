@@ -11,6 +11,7 @@ I care about the whole product. How it looks, how it feels, how it works, and th
 ## What I'm shipping
 
 - **[TechMiners](https://www.techminers.com/)**: Data-driven tech and product due diligence for VCs and PE teams. I lead engineering across the platform, data systems, and AI agents.
+- **[Smoketest](https://smoketest.sh)**: AI-powered browser testing. Write test flows in plain English, without selectors or Playwright maintenance.
 - **[Nestornotes](https://nestornotes.com)**: AI-powered newsletter digest and knowledge hub. Turns your inbox firehose into something you can actually search and learn from. iOS app too.
 - **[Vinoh](https://vin-oh.com)**: iOS wine journal. Log tastings, learn the language of wine, build a real taste profile.
 - **Kapier** *(coming soon)*: Privacy-first document intelligence. Ask questions across your documents without sending them anywhere you wouldn't want them to go.
